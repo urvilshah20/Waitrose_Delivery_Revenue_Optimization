@@ -82,5 +82,5 @@ source("WaitroseAnalysis.R")
 
 **Documentation**
 
-- Detailed methodology and analysis can be found in `WaitroseAnalysis.pdf`
+- Detailed methodology and analysis can be found in `WaitroseAnalysis_RevenueManagement&Pricing.pdf`
 - Code is thoroughly commented with explanations of key functions and algorithms
