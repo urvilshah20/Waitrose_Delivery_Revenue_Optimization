@@ -77,7 +77,7 @@ install.packages(c("ggplot2", "dplyr", "tidyverse", "nloptr", "stargazer"))
 2. Set your working directory to the project root
 3. Run the main analysis script:
 ```
-source("src/WaitroseAnalysis.R")
+source("WaitroseAnalysis.R")
 ```
 
 **Documentation**
